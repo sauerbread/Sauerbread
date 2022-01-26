@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Sauerbread :wave:
+
+- :books: I’m currently in the middle of ...
+  - :crown: writing some [Nim](https://nim-lang.org/)
+  - :hamster: tinkering with [Go](https://go.dev/)
+  - :snake: parseltongue with [Python](https://www.python.org/)
+  - :coffee: workarounding [NodeJS](https://nodejs.org/)
+- :mailbox: Reach me: [`@sauerbread@mastodon.social`](https://mastodon.social/@sauerbread)
+- :speech_balloon: Ask me about: `Nim`, `Desktop Programming`, `Backend Development`, `...`
+- :detective: Fun fact: The dude on my profile pic is [Bernd das Brot](https://en.wikipedia.org/wiki/Bernd_das_Brot) (Bernd the bread).
 
 <!--
 **sauerbread/Sauerbread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
